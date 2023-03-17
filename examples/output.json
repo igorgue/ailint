@@ -1,0 +1,38 @@
+[
+  {
+    "severity": 1,
+    "range": {
+      "start": { "line": 2, "character": 1 },
+      "end": { "line": 2, "character": 21 }
+    },
+    "message": "unused import 'Optional'",
+    "source": "pylint"
+  },
+  {
+    "severity": 1,
+    "range": {
+      "start": { "line": 4, "character": 5 },
+      "end": { "line": 4, "character": 7 }
+    },
+    "message": "redefined variable 'max' from line 8",
+    "source": "pylint"
+  },
+  {
+    "severity": 1,
+    "range": {
+      "start": { "line": 11, "character": 9 },
+      "end": { "line": 11, "character": 10 }
+    },
+    "message": "comparison to zero should be 'if i > max'",
+    "source": "pylint"
+  },
+  {
+    "severity": 1,
+    "range": {
+      "start": { "line": 2, "character": 1 },
+      "end": { "line": 2, "character": 21 }
+    },
+    "message": "unused import 'Optional'",
+    "source": "pylint"
+  }
+]
